@@ -256,17 +256,21 @@ a#flip_card_inner{
 
 /*not used because resume is not a pdf*/
 #resumepdf{
-   margin-top: 2em;
-   width:85%;
- 
-}
 
-#resumeimg{
    margin-top: 2em;
    width:95%;
    height: 100vh;
    margin-left: auto;
    margin-right: auto;
+ 
+}
+
+#resumeimg{
+   margin-top: 2em;
+   width:85%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .about_container{
