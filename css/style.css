@@ -284,7 +284,7 @@ a#flip_card_inner{
     /*not used since portfolio is not a pdf*/
 #portfoliopdf {
     margin-top: 2em;
-    width: 100%;
+    width: 80%;
     height: 100vh;
 }
 
